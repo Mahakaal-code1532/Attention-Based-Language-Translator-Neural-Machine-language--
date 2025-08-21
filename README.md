@@ -19,7 +19,7 @@ This project demonstrates the implementation of a transformer model for sequence
 
 ## Installation
 **Clone the repository:**
-git clone https://github.com/Sirius1811/Machine-Translation.git
+git clone https://github.com/Mahakaal-code1532/Machine-Translation
 cd transformer-translation
 
 **Install dependencies:**
