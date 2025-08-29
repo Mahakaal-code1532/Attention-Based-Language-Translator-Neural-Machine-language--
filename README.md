@@ -82,6 +82,4 @@ Experiment with Different Datasets: Apply the model to different language pairs 
 Hyperparameter Tuning: Explore different configurations of the transformer model.
 Inference Pipeline: Create an easy-to-use inference pipeline for real-time translation.
 
-## Acknowledgements
-The implementation is based on the "Attention is All You Need" paper by Vaswani et al.
-Dataset provided by the [Opus Books project](https://huggingface.co/datasets/Helsinki-NLP/opus_books).
+
