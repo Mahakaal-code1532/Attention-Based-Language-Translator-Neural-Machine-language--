@@ -1,4 +1,4 @@
-# Transformer-Based Machine Translation Model
+# Attention Based Language Translator - Neural Machine Language
 This repository contains an implementation of a transformer-based machine translation model, inspired by the "Attention is All You Need" paper. The model is designed to translate text from English to Italian using the Opus Books dataset.
 
 ## Project Overview
